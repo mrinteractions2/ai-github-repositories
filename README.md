@@ -1,2 +1,2 @@
-# ai-github-resposites
-generated with chatgpt!
+# AI GitHub Repositories
+Some of more repositories were generated in ChatGPT
